@@ -76,7 +76,7 @@
                 <div class="team">
                   <div class="team-image">
                     <img
-                      src="../frontend/assets/images/tedy.png"
+                      src="../frontend/assets/images/solehayubi2.jpg"
                       alt="Tedy Bharata"
                       style="height: 356px; object-fit: cover"
                     />
@@ -98,7 +98,7 @@
                 <div class="team">
                   <div class="team-image">
                     <img
-                      src="../frontend/assets/images/solehayubi.png"
+                      src="../frontend/assets/images/solehayubi.jpg"
                       alt="Soleh Ayubi"
                       style="height: 356px; object-fit: cover"
                     />
