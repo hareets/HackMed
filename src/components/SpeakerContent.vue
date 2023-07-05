@@ -115,7 +115,7 @@
               </div>
             </div>
             <div class="center mt-6 mb-6 wow fadeInUp" data-wow-delay="100ms">
-              <h4>Stay tuned, more speakers will announced soon</h4>
+              <h4>Stay tuned, more speakers will be announced soon</h4>
               <!-- <h3 class="text-capitalize fw-bold font-body">
                                     Can’t find the answer?
                                 </h3>
