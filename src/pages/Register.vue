@@ -113,14 +113,14 @@
                                     <li class="col-sm-6 col-lg-3">
                                         <div class="i-circled i-alt mx-auto bg-color">1</div>
                                         <div class="mt-3">
-                                            <h4 class="mb-1 fw-bold">June 5, 2023</h4>
+                                            <h4 class="mb-1 fw-bold">June 27, 2023</h4>
                                             <span class="fc-muted">Open Registration</span>
                                         </div>
                                     </li>
                                     <li class="col-sm-6 col-lg-3">
                                         <div class="i-circled i-alt mx-auto bg-color">2</div>
                                         <div class="mt-3">
-                                            <h4 class="mb-1 fw-bold">July 5, 2023</h4>
+                                            <h4 class="mb-1 fw-bold">July 27, 2023</h4>
                                             <span class="fc-muted">Registration Closed</span>
                                         </div>
                                     </li>
