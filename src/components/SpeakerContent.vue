@@ -98,7 +98,7 @@
                 <div class="team">
                   <div class="team-image">
                     <img
-                      src="../frontend/assets/images/ayubi.jpg"
+                      src="../frontend/assets/images/ayubi_v1.png"
                       alt="Soleh Ayubi"
                       style="height: 356px; object-fit: cover"
                     />
